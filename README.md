@@ -71,7 +71,6 @@ class _MapPageState extends State<MapPage> {
             maxFeatures: 800,
             render: render),
 
-        //FeatureLayerOptions()
       ],
     );
   }
